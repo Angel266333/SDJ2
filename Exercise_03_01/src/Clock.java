@@ -6,7 +6,6 @@ public class Clock {
 	private int second;
 
 	public void set(int hour, int minute, int second) {
-
 		this.hour = hour;
 		this.minute = minute;
 		this.second = second;
